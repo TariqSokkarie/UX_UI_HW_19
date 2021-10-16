@@ -1,0 +1,66 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px;
+}
+
+.logo {
+    width: 15%;
+    padding: 1%;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.logo {
+    text-align: center;
+}
+
+.header-photos {
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    width: 90%;
+}
+
+h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+footer {
+    background-color: rgb(41, 41, 41);
+    padding: 15px;
+    color: #F9F9F9;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 1%;
+}
+
+section {
+    padding: 25px;
+}
