@@ -65,6 +65,10 @@ section {
     padding: 25px;
 }
 
+.container {
+    display: flex;
+}
+
 .workGrid1 {
     display: grid;
     background-color: #2F2F2F;
